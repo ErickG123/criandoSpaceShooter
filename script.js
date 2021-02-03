@@ -135,7 +135,7 @@ function checkLaserCollision(laser, alien) {
 // Inicio do jogo
 startButton.addEventListener('click', (event) => {
     playGame();
-})
+});
 
 // Função responsável por iniciar o jogo
 function playGame() {
